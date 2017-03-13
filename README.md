@@ -1,3 +1,3 @@
 # dataframetopdf
-This is a simple test program with experimentations on reporting a PCF report from a Pandas datafrmae using reportlab.platypus
+This is a simple test program with experimentations on reporting a PDF report from a Pandas dataframe using reportlab.platypus
 
